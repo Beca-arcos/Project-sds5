@@ -1,5 +1,5 @@
 
-function Navbar() {
+function DataTable() {
     return (
         <div className="table-responsive">
         <table className="table table-striped table-sm">
@@ -41,5 +41,5 @@ function Navbar() {
     );
 }
 
-export default Navbar;
+export default DataTable;
 
